@@ -25,6 +25,7 @@ In the world of Agentic AI, "skills" are the building blocks that empower agents
 | :--- | :--- | :--- |
 | 📝 **commiter** | Ensures Conventional Commit standards. | [SKILL.md](file:///home/monlow99/skill-sambles/.agents/skills/commiter/SKILL.md) |
 | 🛠️ **skill-creator** | Assistance in creating new skills. | [SKILL.md](file:///home/monlow99/skill-sambles/.agents/skills/skill-creator/SKILL.md) |
+| 📜 **changelog** | Automatically generates CHANGELOG.md. | [SKILL.md](file:///home/monlow99/skill-sambles/.agents/skills/changelog/SKILL.md) |
 
 ## 🚀 Getting Started
 
