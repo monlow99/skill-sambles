@@ -28,6 +28,7 @@ In the world of Agentic AI, "skills" are the building blocks that empower agents
 | 🛠️ **skill-creator** | Assistance in creating new skills. | [SKILL.md](file:///home/monlow99/skill-sambles/.agents/skills/skill-creator/SKILL.md) |
 | 📜 **changelog** | Automatically generates CHANGELOG.md. | [SKILL.md](file:///home/monlow99/skill-sambles/.agents/skills/changelog/SKILL.md) |
 | 🎨 **frontend-design** | Tools for modern web design and UI. | [SKILL.md](file:///home/monlow99/skill-sambles/.agents/skills/frontend-design/SKILL.md) |
+| 🚀 **vercel-react** | Performance patterns from Vercel. | [SKILL.md](file:///home/monlow99/skill-sambles/.agents/skills/vercel-react-best-practices/SKILL.md) |
 
 ## 🚀 Getting Started
 
