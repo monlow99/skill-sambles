@@ -1,6 +1,6 @@
 # CHANGELOG
 
-Generated on 2026-02-15 16:31:46
+Generated on 2026-02-15 16:41:32
 
 ## ✨ Features
 - **ui**: create LuminaNotes React App ([1142748])
@@ -9,8 +9,11 @@ Generated on 2026-02-15 16:31:46
 - **skills**: add changelog generator ([cdbf05f])
 - **skills**: add skill-creator skill ([5b3ab86])
 
+## 🐛 Bug Fixes
+- **notes-app**: downgrade Vite to v5 for Node 18 compatibility ([997a4f5])
+
 ## 📝 Documentation
-- update directory structure with notes-app ([9a060f2])
+- update directory structure with notes-app ([5cb7686])
 - improve repository infrastructure ([71815b3])
 
 ## 🔨 Chore
