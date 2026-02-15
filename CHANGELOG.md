@@ -1,6 +1,6 @@
 # CHANGELOG
 
-Generated on 2026-02-15 17:09:00
+Generated on 2026-02-15 17:14:00
 
 ## ✨ Features
 - **ui**: improve notes app and add local start script ([57f373e])
@@ -14,8 +14,12 @@ Generated on 2026-02-15 17:09:00
 - **notes-app**: downgrade Vite to v5 for Node 18 compatibility ([e39475a])
 
 ## 📝 Documentation
+- clean up README and link Happy Notes repo ([243a570])
 - update directory structure with notes-app ([5cb7686])
 - improve repository infrastructure ([71815b3])
+
+## ♻️ Refactor
+- move notes-app to its own repository ([4f2fd0f])
 
 ## 🔨 Chore
 - final project consolidation ([137c799])

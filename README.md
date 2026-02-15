@@ -14,7 +14,6 @@ In the world of Agentic AI, "skills" are the building blocks that empower agents
 │   └── skills/         # Installed skills
 │       ├── commiter/   # Conventional commit helper
 │       └── skill-creator/ # Tool to create new skills
-├── notes-app/          # LuminaNotes React Application
 ├── LICENSE             # MIT License
 ├── CONTRIBUTING.md     # Guidelines for contributors
 └── README.md           # This file
@@ -30,17 +29,10 @@ In the world of Agentic AI, "skills" are the building blocks that empower agents
 | 🎨 **frontend-design** | Tools for modern web design and UI. | [SKILL.md](file:///home/monlow99/skill-sambles/.agents/skills/frontend-design/SKILL.md) |
 | 🚀 **vercel-react** | Performance patterns from Vercel. | [SKILL.md](file:///home/monlow99/skill-sambles/.agents/skills/vercel-react-best-practices/SKILL.md) |
 
-## 🚀 Getting Started
+## 🚀 Proyectos
 
-### Local Execution
-Para ejecutar la aplicación de notas localmente:
-
-1.  Asegúrate de tener **Node.js v18+**.
-2.  Ejecuta el script de inicio rápido:
-    ```bash
-    ./start.sh
-    ```
-3.  La app estará disponible en [http://localhost:5173/](http://localhost:5173/).
+### 😊 [Happy Notes](https://github.com/monlow99/happy-notes)
+Aplicación de notas premium migrada a su propio repositorio independiente.
 
 ## 🌐 GitHub Repository
 
