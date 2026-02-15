@@ -32,11 +32,20 @@ In the world of Agentic AI, "skills" are the building blocks that empower agents
 
 ## 🚀 Getting Started
 
-To use or develop skills in this repository:
+### Local Execution
+Para ejecutar la aplicación de notas localmente:
 
-1. **Browse**: Navigate to `.agents/skills/` to find available capabilities.
-2. **Commit**: Use the `commiter` skill rules for all your git commits.
-3. **Create**: Use `skill-creator` to bootstrap new skills following our standards.
+1.  Asegúrate de tener **Node.js v18+**.
+2.  Ejecuta el script de inicio rápido:
+    ```bash
+    ./start.sh
+    ```
+3.  La app estará disponible en [http://localhost:5173/](http://localhost:5173/).
+
+## 🌐 GitHub Repository
+
+Este proyecto está disponible en GitHub:  
+[**https://github.com/monlow99/skill-sambles**](https://github.com/monlow99/skill-sambles)
 
 ## 🧪 Development & Contribution
 

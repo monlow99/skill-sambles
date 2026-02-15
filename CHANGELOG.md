@@ -1,8 +1,9 @@
 # CHANGELOG
 
-Generated on 2026-02-15 16:45:54
+Generated on 2026-02-15 17:09:00
 
 ## ✨ Features
+- **ui**: improve notes app and add local start script ([b34e8fe])
 - **ui**: create LuminaNotes React App ([1142748])
 - **skills**: add frontend-design skill ([d8923fa])
 - **changelog**: add git hook support for automation ([326c984])
@@ -17,5 +18,5 @@ Generated on 2026-02-15 16:45:54
 - improve repository infrastructure ([71815b3])
 
 ## 🔨 Chore
-- final project consolidation ([995cf95])
+- final project consolidation ([137c799])
 - initial repository setup ([904783d])
