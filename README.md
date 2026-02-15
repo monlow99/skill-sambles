@@ -14,6 +14,7 @@ In the world of Agentic AI, "skills" are the building blocks that empower agents
 │   └── skills/         # Installed skills
 │       ├── commiter/   # Conventional commit helper
 │       └── skill-creator/ # Tool to create new skills
+├── notes-app/          # LuminaNotes React Application
 ├── LICENSE             # MIT License
 ├── CONTRIBUTING.md     # Guidelines for contributors
 └── README.md           # This file
