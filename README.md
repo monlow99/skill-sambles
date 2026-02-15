@@ -6,46 +6,41 @@ Welcome to the **Skills Repository**. This is a curated collection of high-perfo
 
 In the world of Agentic AI, "skills" are the building blocks that empower agents to interact with their environment, process complex data, and perform specialized tasks. This repository provides a robust framework and a diverse set of implementations for these capabilities.
 
-## 🚀 Key Features
-
-- **Modular Design**: Each skill is self-contained and easy to integrate.
-- **Well-Documented**: Comprehensive instructions and examples for every skill.
-- **High Performance**: Optimized for speed and reliability in production environments.
-- **Extensible**: Designed to be easily customized and built upon.
-
 ## 📂 Directory Structure
 
 ```text
 .
-├── skills/             # Core skill implementations
-│   ├── [skill-name]/
-│   │   ├── SKILL.md    # Documentation and metadata
-│   │   ├── scripts/    # Logic and execution scripts
-│   │   └── resources/  # Assets and data files
-├── examples/           # Usage demonstrations
+├── .agents/
+│   └── skills/         # Installed skills
+│       ├── commiter/   # Conventional commit helper
+│       └── skill-creator/ # Tool to create new skills
+├── LICENSE             # MIT License
+├── CONTRIBUTING.md     # Guidelines for contributors
 └── README.md           # This file
 ```
 
-## 🛠️ Getting Started
+## 🛠️ Available Skills
 
-To use a skill from this repository:
+| Skill | Description | Link |
+| :--- | :--- | :--- |
+| 📝 **commiter** | Ensures Conventional Commit standards. | [SKILL.md](file:///home/monlow99/skill-sambles/.agents/skills/commiter/SKILL.md) |
+| 🛠️ **skill-creator** | Assistance in creating new skills. | [SKILL.md](file:///home/monlow99/skill-sambles/.agents/skills/skill-creator/SKILL.md) |
 
-1. **Browse**: Navigate to the `skills/` directory to find the capability you need.
-2. **Review**: Read the `SKILL.md` file within the skill's folder for specific instructions.
-3. **Integrate**: Import the scripts into your agent's workflow according to your framework's requirements.
+## 🚀 Getting Started
+
+To use or develop skills in this repository:
+
+1. **Browse**: Navigate to `.agents/skills/` to find available capabilities.
+2. **Commit**: Use the `commiter` skill rules for all your git commits.
+3. **Create**: Use `skill-creator` to bootstrap new skills following our standards.
 
 ## 🧪 Development & Contribution
 
-We welcome contributions! To add a new skill:
-
-1. Fork the repository.
-2. Create a new directory in `skills/`.
-3. Include a `SKILL.md` file following our standard template.
-4. Submit a Pull Request.
+Please see [CONTRIBUTING.md](file:///home/monlow99/skill-sambles/CONTRIBUTING.md) for details on our development process and how to add new skills.
 
 ## 📝 License
 
-This repository is licensed under the [MIT License](LICENSE). *(Placeholder)*
+This repository is licensed under the [MIT License](file:///home/monlow99/skill-sambles/LICENSE).
 
 ---
 *Built with ❤️ for the AI community.*
