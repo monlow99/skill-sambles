@@ -22,6 +22,14 @@ Run the following script to scan the commit history and update the `CHANGELOG.md
 python3 .agents/skills/changelog/scripts/update_changelog.py
 ```
 
+### Automation (Git Hooks)
+To update the changelog automatically after every commit, you can install a git hook:
+
+```bash
+python3 .agents/skills/changelog/scripts/setup_hooks.py
+```
+This will create a `.git/hooks/post-commit` script that runs the generator.
+
 ## 📐 Formatting Rules
 
 The generator follows these conventions:
